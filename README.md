@@ -1,1 +1,1 @@
-This is a game developed by Hacked, Entity101, and Dave.
+This is a game developed by Hacked, Entity101, and David.
